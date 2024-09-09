@@ -68,6 +68,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://phunc20.github.io/culture/my/asian_family_names/index.html</loc>
+    <lastmod>2024-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://phunc20.github.io/cs/ml/dl/subgradient/ez_viz_with_NN.jl</loc>
     <lastmod>2024-09-09</lastmod>
     <changefreq>monthly</changefreq>
