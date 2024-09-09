@@ -37,7 +37,7 @@ If you find something useful on this site, drop me a line, it will encourage me 
 
 &nbsp;
 
-<a href="https://phunc20.xyz/feed.xml" title="rss">{{svg_rss}}</a>
+<a href="https://phunc20.github.io/feed.xml" title="rss">{{svg_rss}}</a>
 
 &nbsp;
 
