@@ -1,8 +1,9 @@
++++
 @def title = "比利時的科學家"
 @def tags = ["culture"]
-@def rss_title = "比利時的科學家"
 @def rss_description = "一些我最近讀的文章的作者剛好都是比利時人"
 @def rss_pubdate = Date(2021, 12, 31)
++++
 
 # 比利時的科學家
 最近 (2022/04) 在工作上或私下閱讀時, 讀到很多文章的作者剛好都是比利時人, 覺得很有趣, 特此記錄一下:

@@ -1,8 +1,9 @@
++++
 @def title = "Asian Family Names"
 @def tags = ["culture"]
-@def rss_title = "Asian Family Names"
 @def rss_description = "Ng in Hong Kong and in Malaysia"
 @def rss_pubdate = Date(2023, 06, 09)
++++
 
 # Asian Family Names
 ## Ng
