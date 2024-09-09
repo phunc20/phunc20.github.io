@@ -37,11 +37,12 @@ If you find something useful on this site, drop me a line, it will encourage me 
 
 &nbsp;
 
-<a href="https://phunc20.github.io/feed.xml" title="rss">{{svg_rss}}</a>
+<a href=/index.xml><i data-feather=rss></i></a>
 
 &nbsp;
 
 <!--
+<a href="https://phunc20.github.io/feed.xml" title="rss">{{svg_rss}}</a>
 <a href="mailto:wucf20@gmail.com" title="gmail">{{svg_gmail}}</a>
 <a href="https://gitlab.com/phunc20" title="gitlab">{{svg_gitlab}}</a>
 -->
